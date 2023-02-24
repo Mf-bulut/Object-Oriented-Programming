@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-patika.dev profil linkim :  [](https://app.patika.dev/spectare)
+Patika.dev Profil linkim : [patika.dev](https://app.patika.dev/spectare)
